@@ -85,7 +85,7 @@
 </div>
 <!-- GitHub Stats Section -->
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranitmodak&show_icons=true&locale=en" alt="pranitmodak" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranitmodak&show_icons=true&locale=en&langs_count=10&layout=donut-vertical" alt="pranitmodak" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranitmodak&show_icons=true&locale=en&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="pranitmodak" /></p>
