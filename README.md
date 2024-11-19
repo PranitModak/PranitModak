@@ -2,11 +2,12 @@
 <h1 align="center">Hi 👋, I'm Pranit Modak</h1>
 <h3 align="center">A passionate Generative AI developer and researcher from India. Currently have a US and India patent pending status on a super AI product.</h3>
 
-<!-- Profile Views and Trophy Section -->
-<p align="left">
+<!-- Profile Views Section -->
+<div align="center">
+  <h3>Profile Views:</h3>
   <img src="https://komarev.com/ghpvc/?username=pranitmodak&label=Profile%20views&color=0e75b6&style=flat" alt="pranitmodak" />
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranitmodak" alt="pranitmodak" /></a>
-</p>
+</div>
 
 <!-- About Section -->
 <h3 align="left">About Me:</h3>
