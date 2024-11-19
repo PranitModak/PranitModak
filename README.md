@@ -24,7 +24,7 @@
 </div>
 <div align="center">
   <h3>Github Awards:</h3>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranitmodak&title=-Stars,-Reviews" alt="pranitmodak" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranitmodak&title=-Stars,-Reviews&column=-1" alt="pranitmodak" /></a>
 
 <!-- Languages and Tools Section -->
 <h3 align="center">Languages and Tools:</h3>
