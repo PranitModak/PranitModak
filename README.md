@@ -29,9 +29,6 @@
 
 <!-- Languages and Tools Section -->
 <h3 align="left">Languages and Tools:</h3>
-Here's a simple grid HTML table with the provided logos and links:
-
-```html
 <table>
   <tr>
     <td><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a></td>
@@ -90,9 +87,6 @@ Here's a simple grid HTML table with the provided logos and links:
     <td></td>
   </tr>
 </table>
-```
-
-This will create a table with 5 columns and 9 rows, with each logo and link in a separate cell. You can adjust the number of columns and rows as needed to fit your content.
 
 <!-- GitHub Stats Section -->
 <p align="left">
