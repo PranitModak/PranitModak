@@ -22,7 +22,7 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:empranit@gmail.com)
 [![image](https://img.shields.io/badge/Portfolio-303338?style=for-the-badge&logo=github&logoColor=white)](http://pranitmodak.github.io)
 </div>
-<div align="center">
+<div align="left">
 <div>
   <h3>Github Awards:</h3>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranitmodak&margin-w=25&margin-h=25&row=2&column=3" alt="pranitmodak" /></a>
