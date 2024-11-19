@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pranit-modak" target="blank">(https://img.shields.io/badge/-pranit-modak-blue?style=flat&logo=Linkedin&logoColor=white)</a>
+<a href="https://linkedin.com/in/pranit-modak" target="blank">(https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
