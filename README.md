@@ -5,8 +5,8 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/78724676/107845321-998ad500-6e00-11eb-8f60-a90db837bdb2.gif" style="vertical-align:middle;margin:0px 50px">
 
 <!-- Profile Views Section -->
-<div align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=pranitmodak&label=Profile%20views&color=0e75b6&style=flat" alt="pranitmodak" />
+<div align="left">
+  <img align="left" src="https://komarev.com/ghpvc/?username=pranitmodak&label=Profile%20views&color=0e75b6&style=flat" alt="pranitmodak" />
 </div>
 <!-- About Section -->
 <hr>
