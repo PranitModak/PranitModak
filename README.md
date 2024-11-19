@@ -6,7 +6,7 @@
 
 <!-- Profile Views Section -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranitmodak&label=Profile%20views&color=0e75b6&style=flat" alt="pranitmodak" />
+  <img align="center" src="https://komarev.com/ghpvc/?username=pranitmodak&label=Profile%20views&color=0e75b6&style=flat" alt="pranitmodak" />
 </div>
 <!-- About Section -->
 <hr>
