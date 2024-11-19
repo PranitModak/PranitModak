@@ -7,6 +7,9 @@
 <p align="left">
   <img align="left" src="https://komarev.com/ghpvc/?username=pranitmodak&label=Profile%20views&color=0e75b6&style=flat" alt="pranitmodak" />
 </p>
+<p align="left">
+  <h3 align="left">Connect with me:</h3><a href="https://linkedin.com/in/pranit-modak" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
 <!-- About Section -->
 <hr>
 <h3 align="left">About Me:</h3>
@@ -16,11 +19,6 @@
   <li>💬 Ask me about **I love python and javascript**</li>
 </ul>
 <hr>
-<!-- Connect Section -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/pranit-modak" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
 
 <div align="center">
   <h3>Github Awards:</h3>
