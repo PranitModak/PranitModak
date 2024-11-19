@@ -20,7 +20,7 @@
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranit-modak/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:empranit@gmail.com)
-[![image](https://img.shields.io/badge/blogger-996699?style=for-the-badge&logo=blogger&logoColor=white)](http://pranitmodak.github.io)
+[![image](https://img.shields.io/badge/blogger-996699?style=for-the-badge&logo=github&logoColor=white)](http://pranitmodak.github.io)
 </div>
 <div align="center">
   <h3>Github Awards:</h3>
