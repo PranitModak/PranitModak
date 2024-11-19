@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pranit Modak</h1>
-<h3 align="center">A passionate Generative AI developer and researcher from India. Currently have a US and India patent pending status on a super AI product.</h3>
+<h3 align="center">A passionate Generative AI developer and researcher from India. <\br> Currently have a US and India patent pending status on a super AI product.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/78724676/107845321-998ad500-6e00-11eb-8f60-a90db837bdb2.gif" style="vertical-align:middle;margin:0px 50px">
 
