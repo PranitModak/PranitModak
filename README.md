@@ -8,7 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=pranitmodak&label=Profile%20views&color=0e75b6&style=flat" alt="pranitmodak" />
 </div>
 <div align-content="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranitmodak" alt="pranitmodak" /></a>
+  <h3>Github Awards:</h3>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranitmodak&margin-w=15" alt="pranitmodak" /></a>
 </div>
 <!-- About Section -->
 <h3 align="left">About Me:</h3>
