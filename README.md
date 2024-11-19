@@ -23,13 +23,13 @@
 [![image](https://img.shields.io/badge/Portfolio-303338?style=for-the-badge&logo=github&logoColor=white)](http://pranitmodak.github.io)
 </div>
 <div align="center">
-<div align="left">
+<div>
   <h3>Github Awards:</h3>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranitmodak&margin-w=25&margin-h=25&row=2&column=3" alt="pranitmodak" /></a>
 </div>
 
 <!-- Languages and Tools Section -->
-<div align="right">
+<div>
 <h3 align="center">Languages and Tools:</h3>
 <table>
   <tr>
