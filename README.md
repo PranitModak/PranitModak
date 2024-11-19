@@ -9,7 +9,7 @@
 </div>
 <div align-content="center">
   <h3>Github Awards:</h3>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranitmodak&margin-w=15" alt="pranitmodak" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranitmodak&margin-w=15&row=2&column=3" alt="pranitmodak" /></a>
 </div>
 <!-- About Section -->
 <h3 align="left">About Me:</h3>
