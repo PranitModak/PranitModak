@@ -22,13 +22,14 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:empranit@gmail.com)
 [![image](https://img.shields.io/badge/Portfolio-303338?style=for-the-badge&logo=github&logoColor=white)](http://pranitmodak.github.io)
 </div>
-<div align="center">
+<div align="left">
   <h3>Github Awards:</h3>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranitmodak&margin-w=25&margin-h=25&row=2&column=3" alt="pranitmodak" /></a>
 </div>
 
 <!-- Languages and Tools Section -->
-<h3 align="left">Languages and Tools:</h3>
+<div align="right">
+<h3 align="center">Languages and Tools:</h3>
 <table>
   <tr>
     <td><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a></td>
@@ -87,7 +88,7 @@
     <td></td>
   </tr>
 </table>
-
+</div>
 <!-- GitHub Stats Section -->
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranitmodak&show_icons=true&locale=en&layout=compact" alt="pranitmodak" />
