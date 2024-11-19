@@ -68,7 +68,7 @@
   <tr>
     <td><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a></td>
     <td><a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a></td>
-    <td><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikit-learn/scikit-learn-original.svg" alt="scikit_learn" width="40" height="40"/></a></td>
+    <td><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit_learn" width="40" height="40"/></a></td>
     <td><a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/></a></td>
     <td><a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/></a></td>
     <td><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain-wordmark.svg" alt="tailwind" width="40" height="40"/></a></td>
