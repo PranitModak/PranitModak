@@ -8,23 +8,25 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pranitmodak&label=Profile%20views&color=0e75b6&style=flat" alt="pranitmodak" />
 </div>
-<div align="center">
-  <h3>Github Awards:</h3>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranitmodak&margin-w=25&margin-h=25&row=2&column=3" alt="pranitmodak" /></a>
-</div>
 <!-- About Section -->
+<hr>
 <h3 align="left">About Me:</h3>
 <ul>
   <li>🔭 I’m currently working on **LLM Visualization**</li>
   <li>👨‍💻 All of my projects are available at <a href="https://pranitmodak.github.io">Portfolio</a></li>
   <li>💬 Ask me about **I love python and javascript**</li>
 </ul>
-
+<hr>
 <!-- Connect Section -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/pranit-modak" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
+
+<div align="center">
+  <h3>Github Awards:</h3>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranitmodak&margin-w=25&margin-h=25&row=2&column=3" alt="pranitmodak" /></a>
+</div>
 
 <!-- Languages and Tools Section -->
 <h3 align="left">Languages and Tools:</h3>
