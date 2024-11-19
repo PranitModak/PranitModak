@@ -7,10 +7,6 @@
 <p align="left">
   <img align="left" src="https://komarev.com/ghpvc/?username=pranitmodak&label=Profile%20views&color=0e75b6&style=flat" alt="pranitmodak" />
 </p>
-<p align="left">
-  <h3 align="left">Connect with me:</h3><a href="https://linkedin.com/in/pranit-modak" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-<!-- About Section -->
 <hr>
 <h3 align="left">About Me:</h3>
 <ul>
@@ -19,7 +15,13 @@
   <li>💬 Ask me about **I love python and javascript**</li>
 </ul>
 <hr>
+<h3 align="left">Connect with me:</h3>
+<div align="left">
 
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranit-modak/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:empranit@gmail.com)
+[![image](https://img.shields.io/badge/blogger-996699?style=for-the-badge&logo=blogger&logoColor=white)](http://pranitmodak.github.io)
+</div>
 <div align="center">
   <h3>Github Awards:</h3>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranitmodak&margin-w=25&margin-h=25&row=2&column=3" alt="pranitmodak" /></a>
