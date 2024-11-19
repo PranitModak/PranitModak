@@ -1,15 +1,18 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Pranit Modak</h1>
 <h3 align="center">A passionate Generative AI developer and researcher from India. Currently have a US and India patent pending status on a super AI product.</h3>
+<!-- Profile Views Section -->
+<div style="width:100% ;text-align: center">
+  <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif" alt="pranitmodak" style="margin: auto;" />
+</div>
 
 <!-- Profile Views Section -->
-<div align-content="center">
-  <h3>Profile Views:</h3>
+<div style="width:100% ;text-align: center"">
   <img src="https://komarev.com/ghpvc/?username=pranitmodak&label=Profile%20views&color=0e75b6&style=flat" alt="pranitmodak" />
 </div>
-<div align-content="center">
+<div style="width:100% ;text-align: center">
   <h3>Github Awards:</h3>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranitmodak&margin-w=15&row=2&column=3" alt="pranitmodak" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranitmodak&margin-w=25&margin-h=25&row=2&column=3" alt="pranitmodak" /></a>
 </div>
 <!-- About Section -->
 <h3 align="left">About Me:</h3>
