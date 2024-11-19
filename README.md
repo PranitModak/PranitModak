@@ -1,13 +1,12 @@
-<!-- Header Section -->
+
 <h1 align="center">Hi 👋, I'm Pranit Modak</h1>
 <h3 align="center">A passionate Generative AI developer and researcher from India. Currently have a US and India patent pending status on a super AI product.</h3>
-<!-- Profile Views Section -->
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/78724676/107845321-998ad500-6e00-11eb-8f60-a90db837bdb2.gif" style="vertical-align:middle;margin:0px 50px">
 
-<!-- Profile Views Section -->
-<div align="left">
+<p align="left">
   <img align="left" src="https://komarev.com/ghpvc/?username=pranitmodak&label=Profile%20views&color=0e75b6&style=flat" alt="pranitmodak" />
-</div>
+</p>
 <!-- About Section -->
 <hr>
 <h3 align="left">About Me:</h3>
