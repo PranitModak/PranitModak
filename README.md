@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **LLM Visualization**
 
-- 👨‍💻 All of my projects are available at [pranitmodak.github.io](pranitmodak.github.io)
+- 👨‍💻 All of my projects are available at [Portfolio](https://pranitmodak.github.io)
 
 - 💬 Ask me about **I love python and javascript**
 
