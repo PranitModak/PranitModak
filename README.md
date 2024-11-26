@@ -11,7 +11,7 @@
 <h3 align="left">About Me:</h3>
 <ul>
   <li>🔭 I’m currently working on **LLM Visualization**</li>
-  <li>👨‍💻 All of my projects are available at <a href="https://pranitmodak.github.io">Portfolio</a></li>
+  <li>👨‍💻 All of my projects are available at <a href="https://pranit-modak.vercel.app/">Portfolio</a></li>
   <li>💬 Ask me about **I love python and javascript**</li>
 </ul>
 <hr>
@@ -20,7 +20,7 @@
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranit-modak/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:empranit@gmail.com)
-[![image](https://img.shields.io/badge/Portfolio-303338?style=for-the-badge&logo=github&logoColor=white)](http://pranitmodak.github.io)
+[![image](https://img.shields.io/badge/Portfolio-303338?style=for-the-badge&logo=github&logoColor=white)](https://pranit-modak.vercel.app/)
 </div>
 <div align="center">
   <h3>Github Awards:</h3>
